@@ -1,2 +1,4 @@
 # Student-programming-habit-analysis
-A Python project that simulates and analyzes how students learn programming, using pandas, NumPy, and Matplotlib. It generates a synthetic dataset, visualizes trends in coding habits, learning platforms, and common challenges, and presents insights with clear charts and explanations.
+This project explores the learning habits of programming students using data simulation and visualization.
+With tools like pandas, NumPy, and Matplotlib, it analyzes trends such as preferred programming languages, study time, progress ratings, and key challenges.
+The project demonstrates skills in data generation, analysis, and result interpretation — useful for both research and data science practice.
