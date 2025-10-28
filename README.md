@@ -1,6 +1,6 @@
-🧠 Student Programming Habit Analysis
+Student Programming Habit Analysis
 
-### 🎯 Overview
+🎯 Overview
 This project explores how students learn programming — their preferred languages, coding habits, progress levels, and challenges — using simulated survey data.  
 It demonstrates skills in:
 - Python scripting  
@@ -9,7 +9,7 @@ It demonstrates skills in:
 
 ---
 
-### ⚙️ Tools & Libraries
+  Tools & Libraries
 - Python 3.10+  
 - NumPy  
 - pandas  
@@ -17,7 +17,7 @@ It demonstrates skills in:
 
 ---
 
-### 🚀 How to Run
+ How to Run
 ```bash
 git clone https://github.com/oseovie/Student-programming-habit-analysis.git
 cd Student-programming-habit-analysis
@@ -27,17 +27,14 @@ python analyze_survey_data.py
 📊 Visualization Previews
 Below are charts generated directly from the Python scripts — giving a quick overview of how students approach programming:
 
-📈 Programming Language Popularity
+avg_hours_language.png
+avg_progress_platform.png
 
-📊 Average Progress by Learning Platform
-
-⏰ Average Coding Hours by Programming Language
-
-⚠️ Common Learning Challenges
+popular_languages.png
+common_challenges .png
 
 💡 All visualizations are generated automatically using Python’s Matplotlib library.
-
-🧩 Future Enhancements
+Future Enhancements
 Add demographic insights (e.g., age, education level)
 
 Include pie charts and heatmaps for deeper analysis
