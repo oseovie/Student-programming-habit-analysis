@@ -13,6 +13,7 @@ plt.title("Most Popular Programming Languages Among Students")
 plt.xlabel("Programming Language")
 plt.ylabel("Number of Students")
 plt.tight_layout()
+plt.savefig("popular_language.png")
 plt.show()
 
 # 2️⃣ Average progress rating per platform
@@ -23,6 +24,7 @@ plt.title("Average Progress Rating by Learning Platform")
 plt.xlabel("Platform")
 plt.ylabel("Average Progress Rating")
 plt.tight_layout()
+plt.savefig("avg_progress_platform.png")
 plt.show()
 
 # 3️⃣ Average coding hours by programming language
@@ -33,6 +35,7 @@ plt.title("Average Coding Hours by Programming Language")
 plt.xlabel("Programming Language")
 plt.ylabel("Average Hours per Week")
 plt.tight_layout()
+plt.savefig("avg_hours_language.png")
 plt.show()
 
 # 4️⃣ Most common learning challenges
@@ -42,4 +45,6 @@ plt.title("Most Common Challenges Faced by Coding Students")
 plt.xlabel("Challenge")
 plt.ylabel("Number of Students")
 plt.tight_layout()
+plt.savefig("commom_challenges.png")
 plt.show()
+
