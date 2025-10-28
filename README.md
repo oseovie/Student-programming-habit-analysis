@@ -1,55 +1,52 @@
-Student Programming Habits Analysis
+🧠 Student Programming Habit Analysis
 
-Author: Ose Ovie Derrick
-Location: Asaba, Delta State, Nigeria
-Email: ovieose17@gmail.com
-
-GitHub: oseovie
-
- Overview
-
-This project explores how students learn programming — their preferred languages, coding habits, progress levels, and challenges — using simulated survey data.
+### 🎯 Overview
+This project explores how students learn programming — their preferred languages, coding habits, progress levels, and challenges — using simulated survey data.  
 It demonstrates skills in:
+- Python scripting  
+- NumPy and pandas for data simulation  
+- Matplotlib for data visualization  
 
-Python scripting
+---
 
-NumPy and pandas for data simulation
+### ⚙️ Tools & Libraries
+- Python 3.10+  
+- NumPy  
+- pandas  
+- Matplotlib  
 
-Matplotlib for data visualization
+---
 
-Tools & Libraries
-
-Python 3.10+
-
-NumPy
-
-pandas
-
-Matplotlib
-
-How to Run
-git clone https://github.com/oseovie/student-programming-habits-analysis.git
-cd student-programming-habits-analysis
+### 🚀 How to Run
+```bash
+git clone https://github.com/oseovie/Student-programming-habit-analysis.git
+cd Student-programming-habit-analysis
 pip install pandas numpy matplotlib
-python csv.py
-python analyze.py
+python generate_survey_data.py
+python analyze_survey_data.py
+📊 Visualization Previews
+Below are charts generated directly from the Python scripts — giving a quick overview of how students approach programming:
 
- Key Insights
+📈 Programming Language Popularity
 
-Python is the most preferred programming language.
+📊 Average Progress by Learning Platform
 
-Structured learning improves progress.
+⏰ Average Coding Hours by Programming Language
 
-Motivation and consistency are the biggest challenges.
+⚠️ Common Learning Challenges
+
+💡 All visualizations are generated automatically using Python’s Matplotlib library.
 
 🧩 Future Enhancements
+Add demographic insights (e.g., age, education level)
 
-Add demographics to dataset.
+Include pie charts and heatmaps for deeper analysis
 
-Build a Streamlit dashboard.
+Build an interactive dashboard using Streamlit
 
-Use more advanced data visualizations.
+🧑‍💻 Author
+Ose Ovie Derrick
+Aspiring Software Developer | Passionate about Data & Research
+📧 ovieose17@gmail.com
+📍 Asaba, Delta State, Nigeria
 
-🏁 Conclusion
-
-This project demonstrates how Python can turn simulated data into meaningful insights — combining programming, data science, and visualization.
